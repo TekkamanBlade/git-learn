@@ -1,2 +1,4 @@
 2.txt
 branch1
+modify from master branch
+and modified from branch2
